@@ -5,8 +5,7 @@ The application features a **live countdown timer**, **error detection & highlig
 
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.onrender.com  
-*(Replace with your deployed Render link)*
+🔗(https://typing-speed-tester-otgg.onrender.com)
 
 
 ## 🧠 Features
